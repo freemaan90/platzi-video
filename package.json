@@ -1,0 +1,24 @@
+{
+  "name": "platzi-video",
+  "version": "1.0.0",
+  "description": "HTML y CSS del reproductor de video de platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freemaan90/platzi-video.git"
+  },
+  "keywords": [
+    "JS",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Frederico <fredericozanoni@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freemaan90/platzi-video/issues"
+  },
+  "homepage": "https://github.com/freemaan90/platzi-video#readme"
+}
